@@ -1,2 +1,0 @@
-(self.webpackChunkpersonal_site=self.webpackChunkpersonal_site||[]).push([[691],{6738:function(e,t,a){"use strict";a.r(t);var n=a(5007);t.default=function(){return n.default.createElement("main",{className:"flex flex-col items-center"},n.default.createElement("h1",{className:"text-4xl font-medium"},"Brandon Kiser"))}}}]);
-//# sourceMappingURL=component---src-pages-index-tsx-1b91ee21ceb405a82950.js.map
